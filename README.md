@@ -1,5 +1,5 @@
-Hi 👋 I'm Shivansh
-
+# Shivansh 
+Computer Science Student | Developer
 <!--
 **shivansh-omer/shivansh-omer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
