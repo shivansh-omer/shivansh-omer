@@ -1,5 +1,7 @@
 # Shivansh 
 Computer Science Student | Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;iOS+Learner;CS+Student">
 <!--
 **shivansh-omer/shivansh-omer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
