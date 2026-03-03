@@ -1,4 +1,4 @@
-# Shivansh Omer
+<h1 align="center">Shivansh Omer</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
