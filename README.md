@@ -41,7 +41,7 @@ I try to combine technical knowledge with creativity to build useful and simple 
   
   </div>
 
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/> </div>
+
 
 <!-- <p align="center">
   <a href="https://git.io/typing-svg">
