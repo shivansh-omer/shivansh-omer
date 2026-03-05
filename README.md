@@ -14,6 +14,10 @@
 ## 🧑‍💻 About Me
 > Third-year Computer Science Engineering student at Galgotias University, Greater Noida with a passion for web development, iOS, and artificial intelligence.
 
+I enjoy building projects that solve real problems and make things easier for users. 
+I like learning new technologies and improving my skills by working on different projects. 
+I try to combine technical knowledge with creativity to build useful and simple solutions.
+
 <!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77DAE&center=true&random=false&width=435&lines=Computer+Science+Student;Web+Developer;iOS+Enthusiast;AI+Explorer" alt="Typing SVG" />
