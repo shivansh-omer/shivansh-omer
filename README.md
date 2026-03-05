@@ -18,6 +18,13 @@ I enjoy building projects that solve real problems and make things easier for us
 I like learning new technologies and improving my skills by working on different projects. 
 I try to combine technical knowledge with creativity to build useful and simple solutions.
 
+## 🎯 Current Focus
+
+🌱 Improving problem-solving with Data Structures & Algorithms  
+🌐 Building web applications and learning full-stack development  
+📱 Exploring iOS development with Swift and SwiftUI  
+🚀 Creating projects to apply what I learn
+
 <!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77DAE&center=true&random=false&width=435&lines=Computer+Science+Student;Web+Developer;iOS+Enthusiast;AI+Explorer" alt="Typing SVG" />
