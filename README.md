@@ -11,6 +11,12 @@
 
 </div>
 
+## 🧑‍💻 About Me
+> Third-year Computer Science Engineering student at Galgotias University, Greater Noida with a passion for web development, iOS, and artificial intelligence.
+
+I enjoy building projects that solve real problems and make things easier for users. 
+I like learning new technologies and improving my skills by working on different projects. 
+I try to combine technical knowledge with creativity to build useful and simple solutions.
 
 ## 🎯 Current Focus
 
