@@ -11,6 +11,8 @@
 
 </div>
 
+## 🧑‍💻 About Me
+> Third-year Computer Science Engineering student at Galgotias University, Greater Noida with a passion for web development, iOS, and artificial intelligence.
 
 <!-- <p align="center">
   <a href="https://git.io/typing-svg">
