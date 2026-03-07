@@ -84,8 +84,11 @@ I try to combine technical knowledge with creativity to build useful and simple 
 ## 🤝 Connect With Me 
 
 <div align="center"> 
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-omer-b738a9278/) 
+  
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](shivanshomer11a@gmail.com) 
+
 </div>
 
 <!-- <p align="center">
