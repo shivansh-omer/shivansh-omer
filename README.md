@@ -81,8 +81,6 @@ I try to combine technical knowledge with creativity to build useful and simple 
 <img src="https://quotes-github-readme.vercel.app/api?quote=Great%20things%20are%20done%20by%20a%20series%20of%20small%20things%20brought%20together&author=Vincent%20van%20Gogh&theme=radical&type=horizontal" />
 </div>
 
-Great things are done by a series of small things brought together. — Vincent van Gogh
-
 <!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77DAE&center=true&random=false&width=435&lines=Computer+Science+Student;Web+Developer;iOS+Enthusiast;AI+Explorer" alt="Typing SVG" />
