@@ -77,9 +77,16 @@ I try to combine technical knowledge with creativity to build useful and simple 
   
   </div>
 
-<p align="center">
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivansh-omer&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight)
+
+
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight"/>
-</p>
+</p> -->
 
  <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?quote=Great%20things%20are%20done%20by%20a%20series%20of%20small%20things%20brought%20together&author=Vincent%20van%20Gogh&theme=radical&type=horizontal" />
