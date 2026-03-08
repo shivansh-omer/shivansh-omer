@@ -89,7 +89,7 @@ I try to combine technical knowledge with creativity to build useful and simple 
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh-omer&theme=react-dark"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh-omer&theme=react-dark"/> -->
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-omer&theme=radical"/>
