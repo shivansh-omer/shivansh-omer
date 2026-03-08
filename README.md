@@ -77,11 +77,19 @@ I try to combine technical knowledge with creativity to build useful and simple 
   
   </div>
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivansh-omer&show_icons=true&theme=tokyonight" height="165" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight" height="165" />
+</p>
+```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivansh-omer&show_icons=true&theme=tokyonight)
+This will make them appear **next to each other** horizontally, which looks much cleaner! 🔥
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight)
+## Why it might still fail
+- The `vercel.app` instance might be **rate limited** — try this alternative:
+```
+https://github-readme-stats.vercel.app/api?username=shivansh-omer&theme=tokyonight&show_icons=true&hide_border=true
 
 
 <!-- <p align="center">
