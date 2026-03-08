@@ -77,6 +77,10 @@ I try to combine technical knowledge with creativity to build useful and simple 
   
   </div>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight"/>
+</p>
+
  <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?quote=Great%20things%20are%20done%20by%20a%20series%20of%20small%20things%20brought%20together&author=Vincent%20van%20Gogh&theme=radical&type=horizontal" />
 </div>
@@ -88,11 +92,6 @@ I try to combine technical knowledge with creativity to build useful and simple 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-omer-b738a9278/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](shivanshomer11a@gmail.com) 
 
 </div>
-
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight"/>
-</p>
 
 <!--![Activity Graph](https://github-activity-graph.vercel.app/graph?username=shivansh-omer&theme=tokyo-night)-->
 
