@@ -96,6 +96,8 @@ I try to combine technical knowledge with creativity to build useful and simple 
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+![Header](https://your-gif-url.gif)
+
 <!--![Activity Graph](https://github-activity-graph.vercel.app/graph?username=shivansh-omer&theme=tokyo-night)-->
 
 <!-- <p align="center">
