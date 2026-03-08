@@ -77,8 +77,10 @@ I try to combine technical knowledge with creativity to build useful and simple 
   
   </div>
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivansh-omer&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivansh-omer&show_icons=true&theme=tokyonight" />
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight" height="165" />
 </p>
