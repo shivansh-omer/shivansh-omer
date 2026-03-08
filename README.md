@@ -96,8 +96,8 @@ I try to combine technical knowledge with creativity to build useful and simple 
 </p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivansh-omer&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-omer&layout=compact&theme=tokyonight)
+![Visitors](https://komarev.com/ghpvc/?username=shivansh-omer&color=blueviolet)
+
 
 <!-- <p align="center">
   <a href="https://git.io/typing-svg">
