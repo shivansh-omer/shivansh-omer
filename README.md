@@ -92,13 +92,13 @@ I try to combine technical knowledge with creativity to build useful and simple 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh-omer&theme=react-dark"/> -->
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-omer&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight"/>
 </p>
 
 
 ![Activity Graph](https://github-activity-graph.vercel.app/graph?username=shivansh-omer&theme=tokyo-night)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight)
+![GitHub Streak]()
 
 
 
