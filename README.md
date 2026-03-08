@@ -95,6 +95,10 @@ I try to combine technical knowledge with creativity to build useful and simple 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-omer&theme=radical"/>
 </p>
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivansh-omer&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-omer&layout=compact&theme=tokyonight)
+
 <!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77DAE&center=true&random=false&width=435&lines=Computer+Science+Student;Web+Developer;iOS+Enthusiast;AI+Explorer" alt="Typing SVG" />
