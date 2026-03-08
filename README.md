@@ -96,7 +96,7 @@ I try to combine technical knowledge with creativity to build useful and simple 
 </p>
 
 
-![Visitors](https://komarev.com/ghpvc/?username=shivansh-omer&color=blueviolet)
+![Activity Graph](https://github-activity-graph.vercel.app/graph?username=shivansh-omer&theme=tokyo-night)
 
 
 <!-- <p align="center">
