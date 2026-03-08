@@ -94,6 +94,7 @@ I try to combine technical knowledge with creativity to build useful and simple 
 <img src="https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight"/>
 </p>
 
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <!--![Activity Graph](https://github-activity-graph.vercel.app/graph?username=shivansh-omer&theme=tokyo-night)-->
 
