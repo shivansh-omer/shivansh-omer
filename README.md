@@ -80,7 +80,7 @@ I try to combine technical knowledge with creativity to build useful and simple 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivansh-omer&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivansh-omer&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight" height="165" />
 </p>
