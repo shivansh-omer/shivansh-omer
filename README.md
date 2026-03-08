@@ -98,6 +98,9 @@ I try to combine technical knowledge with creativity to build useful and simple 
 
 ![Activity Graph](https://github-activity-graph.vercel.app/graph?username=shivansh-omer&theme=tokyo-night)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight)
+
+
 
 <!-- <p align="center">
   <a href="https://git.io/typing-svg">
