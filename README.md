@@ -89,6 +89,8 @@ I try to combine technical knowledge with creativity to build useful and simple 
 
 </div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh-omer&theme=react-dark"/>
+
 <!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77DAE&center=true&random=false&width=435&lines=Computer+Science+Student;Web+Developer;iOS+Enthusiast;AI+Explorer" alt="Typing SVG" />
