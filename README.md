@@ -92,7 +92,7 @@ I try to combine technical knowledge with creativity to build useful and simple 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh-omer&theme=react-dark"/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shivansh-omer&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-omer&theme=radical"/>
 </p>
 
 <!-- <p align="center">
