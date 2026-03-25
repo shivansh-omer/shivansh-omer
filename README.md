@@ -100,7 +100,6 @@ I try to combine technical knowledge with creativity to build useful and simple 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-omer-b738a9278/)[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshomer11a@gmail.com)
 </div>
 
-<!--![Activity Graph](https://github-activity-graph.vercel.app/graph?username=shivansh-omer&theme=tokyo-night)-->
 
 <!-- <p align="center">
   <a href="https://git.io/typing-svg">
