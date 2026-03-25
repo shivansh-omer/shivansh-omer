@@ -101,23 +101,17 @@ I try to combine technical knowledge with creativity to build useful and simple 
 </div>
 
 
-<!-- <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77DAE&center=true&random=false&width=435&lines=Computer+Science+Student;Web+Developer;iOS+Enthusiast;AI+Explorer" alt="Typing SVG" />
-  </a>
-</p> -->
-
 <!--
-**shivansh-omer/shivansh-omer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## `$ cat stats.json`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh-omer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff" width="95%" />
+
+<img src="https://streak-stats.demolab.com?user=shivansh-omer&theme=tokyonight&hide_border=true" height="155" />
+
+</div>
+
 -->
+
